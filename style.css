@@ -1,0 +1,111 @@
+body {
+  background-color: #D1CAC6;
+}
+
+.Head {
+  background-color: #ffffff;
+  font-family: 'Montserrat';
+  text-align: center;
+  width: 29.5vw;
+  height: auto;
+  margin: 2% auto auto auto;
+  border-radius: 5px;
+  padding-top: 2%;
+  padding-bottom: 2%;
+  color: #999491;
+}
+
+.Head img {
+  border-radius: 50%;
+}
+
+.Head h1 {
+  color: #C43933;
+}
+
+.Head p {
+  text-align: justify;
+  margin: auto 2% auto 2%;
+  padding-bottom: 5%;
+}
+
+.Head a {
+  border: 3px solid #C43933;
+  padding: 2% 2% 2% 2%;
+  border-radius: 5px;
+  background-color: #C43933;
+  color: #ffffff;
+}
+
+.link {
+  background-color: #ffffff;
+  font-family: 'Montserrat';
+  border-radius: 5px;
+  color: #999491;
+  width: 29.5vw;
+  height: 20vh;
+  margin: 1% auto auto auto;
+  display: flex;
+
+}
+
+.link ul {
+  display: inline-flex;
+  text-align: center;
+  margin: auto;
+  list-style-type: none;
+  padding: 0;
+  justify-content: space-between;
+}
+
+.link li {
+  padding: 2vw;
+}
+
+.link a {
+  color: #999491;
+  font-size: 15px;
+  margin: auto ;
+}
+
+.Film {
+  background-color: #ffffff;
+  font-family: 'Montserrat';
+  border-radius: 5px;
+  color: #999491;
+  width: 29.5vw;
+  height: auto;
+  margin: 1% auto auto auto;
+  font-size: 15px;
+}
+
+.Film h2 {
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+}
+
+.ex6 {
+  margin: auto;
+  padding:2vh;
+   display: flex;
+}
+
+
+
+.cover img {
+  height: 20vh;
+  width: auto;
+  margin: auto;
+  padding-top:20px;
+}
+
+.Descr {
+  padding: 20px;
+  padding-top: 0;
+  text-align: center;
+}
+
+.Descr p {
+  text-align: justify;
+}
